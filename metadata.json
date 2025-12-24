@@ -1,0 +1,7 @@
+{
+  "name": "GrowthStack Engine",
+  "description": "A comprehensive digital marketing command center integrating SEO, AEO, YouTube strategy, Local SEO, Social Media, and Review management powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
